@@ -1,5 +1,5 @@
 # Python_Pandas_Pro_Series
-<img src="1200px-Pandas_logo.svg.png" alt="Pandas" style="width:500px;height:600px;">
+<img src="1200px-Pandas_logo.svg.png" alt="Pandas" style="width:150px;height:300px;">
 
 Tutorials on how to use Pandas for Data Science. 
 
