@@ -12,4 +12,4 @@ Tutorials on how to use Pandas for Data Science. This tutorial will cover:
 
 More tutorials are being added all the time. 
 
-Visit me <a href="https://twitter.com/StatsGary">@StatsGary</a>
+Visit me <a href="https://twitter.com/StatsGary">@StatsGary</a> and at <a href="https://www.linkedin.com/in/ghutson/">LinkedIn</a>.
